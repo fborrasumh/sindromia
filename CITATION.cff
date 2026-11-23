@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo así."
+title: "SindromIA"
+version: "1.0.0"
+date-released: "2026-11-23"
+license: MIT
+url: "https://fborrasumh.github.io/sindromia/"
+repository-code: "https://github.com/fborrasumh/sindromia"
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Ramos Rincón"
+    given-names: "José Manuel"
+    affiliation: "Universidad Miguel Hernández de Elche, Departamento de Medicina Clínica"
+    orcid: "https://orcid.org/0000-0002-6501-9867"
